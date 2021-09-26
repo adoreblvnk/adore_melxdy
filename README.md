@@ -1,5 +1,3 @@
-https://kaffeine.herokuapp.com/
-
 # adore_melxdy
 
 <img src="images/melxdy.png" width=150>
