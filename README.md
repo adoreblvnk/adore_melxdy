@@ -23,6 +23,12 @@ Type `-help` for command help menu.
 
 ## Installation
 
+### Things You Need
+
+- [Heroku](https://devcenter.heroku.com)
+- [Google API Discovery Key](https://code.google.com/apis/console)
+- [Discord Developer Portal](https://discord.com/developers/applications)
+
 ### Buildpacks
 
 ![heroku buildpack setting](images/heroku_buildpack_setting.png)
@@ -47,10 +53,10 @@ adore_melxdy is created to be hosted from Heroku. Necessary Heroku Buildpacks ar
 
 ## Changelog
 
-### v1 initial commit
+### v1
 
 - Includes everything stated in the above.
-- Partial Spotify implementation.
+- Partial Spotify implementation. Spotify code is commented.
 
 ## Credits
 
