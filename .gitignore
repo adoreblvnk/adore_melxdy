@@ -1,0 +1,10 @@
+# environment
+venv/
+.vscode/
+__pycache__/
+
+# keys
+.env
+
+# others
+drawing_board/
