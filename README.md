@@ -4,6 +4,8 @@
 
 adore_melxdy: a Python YT music bot. Feel free to clone this repo as needed.
 
+DM [adore_blvnk](https://twitter.com/adore_blvnk) for bot invite link.
+
 prod by blvnk.
 
 ---
