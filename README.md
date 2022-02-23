@@ -1,6 +1,6 @@
 # adore_melxdy
 
-<img src="images/melxdy.png" width=150>
+<img src="https://i.imgur.com/COf7mj6.png" width=150>
 
 adore_melxdy: a Python YT music bot. Feel free to clone this repo as needed.
 
@@ -33,7 +33,7 @@ Type `-help` for command help menu.
 
 ### Buildpacks
 
-![heroku buildpack setting](images/heroku_buildpack_setting.png)
+![heroku buildpack setting](https://i.imgur.com/Zbm9RdM.png)
 
 adore_melxdy is created to be hosted from Heroku. Necessary Heroku Buildpacks are listed below.
 
@@ -43,7 +43,7 @@ adore_melxdy is created to be hosted from Heroku. Necessary Heroku Buildpacks ar
 
 ### Credentials
 
-![heroku env](images/env_heroku.png)
+![heroku env](https://i.imgur.com/FRGS1uu.png)
 
 - API_KEY: [Google API Discovery Key](https://code.google.com/apis/console)
 - DISCORD_TOKEN: Upon creation of an application in [Discord Developer Portal](https://discord.com/developers/applications), navigate to `Bot` & copy the token.
